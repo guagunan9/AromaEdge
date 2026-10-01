@@ -1,24 +1,7 @@
 # ⚠️ InnoServe 匿名審查提醒
 
-> [!WARNING]
-> 本資料夾 `files(設計文件&簡報)` 為既有課程／專題繳交資料，其中之簡報與設計文件包含成員姓名、學號或其他可識別資訊。
->
-> 為維持原始繳交內容及專案開發歷程之完整性，相關文件予以保留。
->
-> **InnoServe 匿名審查期間，請勿開啟本資料夾內之簡報、設計文件，敬請審查時略過。**
-
-<div align="center">
-
-# 🍍 鳳梨成熟度辨識系統 — 期中版
+# 🍍 鳳梨成熟度辨識系統 — 期中版(團隊開發初期的版本)
 ### Pineapple Ripeness Detection System — Midterm
-
-<p align="center">
-<strong>⚠️ 匿名審查提醒：以下歷史 Demo 影片包含成員影像或其他可識別資訊，InnoServe 匿名審查期間請勿開啟。</strong>
-</p>
-
-<h3 align="center">
-<a href="https://drive.google.com/file/d/1zQTGWSUGKHxx7ukhSpP41EWQJNEOJPet/view?usp=drive_link">🎬 期中 Demo 影片</a>
-</h3>
 
 *電子鼻 × 邊緣運算 × 機器學習 | Electronic Nose × Edge Computing × Machine Learning*
 
