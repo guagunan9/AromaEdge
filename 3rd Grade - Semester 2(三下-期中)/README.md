@@ -1,5 +1,3 @@
-# ⚠️ InnoServe 匿名審查提醒
-
 # 🍍 鳳梨成熟度辨識系統 — 期中版(團隊開發初期的版本)
 ### Pineapple Ripeness Detection System — Midterm
 
