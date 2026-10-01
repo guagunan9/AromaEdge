@@ -14,6 +14,13 @@
 > ⚠️ 匿名審查提醒：原團隊 GitHub 為既有專題開發 Repository，部分歷史文件、影像及開發紀錄可能包含可識別之個人或參賽單位資訊，因此另建立本匿名版本供競賽審查使用。原 Repository 亦已於首頁針對相關內容加註匿名審查提醒，**匿名審查期間請勿開啟原團隊 GitHub 之相關身分資訊內容。**
 <h3 align="center">🎬 InnoServe 匿名審查 Demo 影片</h3>
 
+<p align="center">
+以下版本不含參賽成員、學校名稱、學校 Logo 等可識別參賽單位之資訊，供 InnoServe 審查使用：
+<br><br>
+▶️ <a href="https://www.youtube.com/watch?v=WHv5cEysAu4"><strong>PineNose｜InnoServe 匿名審查 Demo 影片</strong></a>
+</p>
+
+
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
