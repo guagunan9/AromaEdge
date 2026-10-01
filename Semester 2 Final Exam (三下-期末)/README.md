@@ -1,40 +1,7 @@
-# ⚠️ InnoServe 匿名審查提醒
-
-> [!WARNING]
-> 本資料夾 `設計文件 & 簡報` 為既有課程／專題期末繳交資料，其中之簡報與設計規格文件包含成員姓名、學號或其他可識別資訊。
->
-> 為維持原始繳交內容及專案開發歷程之完整性，相關文件予以保留。
->
-> **InnoServe 匿名審查期間，請勿開啟本資料夾內之簡報及設計文件，敬請審查時略過。**
-
-<div align="center">
-
-# 🍍 鳳梨智慧辨識系統 — 期末整合版
+# 🍍 鳳梨智慧辨識系統 — 期末整合版(團隊最新(終)開發版本)
 ### Pineapple Smart Recognition System — Final Exam
 
 *電子鼻成熟度辨識 × 影像品種辨識 × 整合 Web 介面 × 行動 App*
-<p align="center">
-<strong>⚠️ 匿名審查提醒：以下兩部歷史 Demo 影片包含成員影像或其他可識別資訊，InnoServe 匿名審查期間請勿開啟。</strong>
-</p>
-
-<h3 align="center">
-<a href="https://drive.google.com/file/d/1Z_MbwVsv4nYf6GSiNdPcTrRvedTm5LH4/view">🎬 期末 Demo 影片</a>
-</h3>
-
-<h3 align="center">
-<a href="https://drive.google.com/file/d/1jPS8nS9LenRPj_xzRBxOc3c53piBs48R/view">🎬 20260601 報告 Demo 影片</a>
-</h3>
-
-
-<br>
-
-<h3 align="center">🎬 InnoServe 匿名審查 Demo 影片</h3>
-
-<p align="center">
-  以下版本不含參賽成員、學校名稱、學校 Logo 等可識別參賽單位之資訊，供 InnoServe 審查使用。
-  <br><br>
-  ▶️ <a href="https://www.youtube.com/watch?v=WHv5cEysAu4"><strong>PineNose｜InnoServe 匿名審查 Demo 影片</strong></a>
-</p>
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.1+-000000?style=flat-square&logo=flask&logoColor=white)
