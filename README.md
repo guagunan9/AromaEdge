@@ -1,48 +1,19 @@
-> [!IMPORTANT]
-> **InnoServe 匿名審查說明**
->
-> 為配合 InnoServe 匿名審查規範，本 Repository 之主要 README 與競賽審查內容已移除可識別參賽單位及成員身分之資訊。
->
-> 本 Repository 同時為學校課程／專題歷程之公開開源成果，部分既有繳交文件與歷史成果包含成員姓名、學號、影像或其他可識別資訊。為維持原始繳交內容及開發歷程之完整性，相關既有檔案予以保留。
->
-> **⚠️ InnoServe 匿名審查期間，請勿開啟以下內容：**
->
-> - `3rd Grade - Semester 2(三下-期中)/files(設計文件&簡報)/`
-> - `Semester 2 Final Exam (三下-期末)/設計文件 & 簡報/`
-> - `大四上第一次簡報/測試計劃書_繳交.docx`
->
-> **上述內容包含成員姓名、學號、影像或其他可識別資訊，敬請 InnoServe 審查時略過。**
-<h1 align="center">🍍 PineNose：鳳梨成熟度與品種辨識系統</h1>
+<div align="center">
 
-<h3 align="center">Pineapple Ripeness & Variety Detection System</h3>
+# 🍍 AromaEdge：鳳梨成熟度與品種辨識系統
 
-<p align="center">
-<strong>⚠️ 匿名審查提醒：以下三部歷史 Demo 影片包含成員影像或其他可識別資訊，InnoServe 匿名審查期間請勿開啟。</strong>
-</p>
-
-<h3 align="center">
-<a href="https://drive.google.com/file/d/1zQTGWSUGKHxx7ukhSpP41EWQJNEOJPet/view?usp=drive_link">🎬 期中 Demo 影片</a>
-</h3>
-
-<h3 align="center">
-<a href="https://drive.google.com/file/d/1Z_MbwVsv4nYf6GSiNdPcTrRvedTm5LH4/view">🎬 期末 Demo 影片</a>
-</h3>
-
-<h3 align="center">
-<a href="https://drive.google.com/file/d/1jPS8nS9LenRPj_xzRBxOc3c53piBs48R/view">🎬 20260601 報告 Demo 影片</a>
-</h3>
-
-<br>
-
-<h3 align="center">🎬 InnoServe 匿名審查 Demo 影片</h3>
-
-<p align="center">
-以下版本不含參賽成員、學校名稱、學校 Logo 等可識別參賽單位之資訊，供 InnoServe 審查使用：
-<br><br>
-▶️ <a href="https://www.youtube.com/watch?v=WHv5cEysAu4"><strong>PineNose｜InnoServe 匿名審查 Demo 影片</strong></a>
-</p>
+### Pineapple Ripeness & Variety Detection System
 
 *電子鼻 × 邊緣運算 × 機器學習 × 影像辨識 × 行動 App*
+
+</div>
+
+> 本 Repository 為配合競賽匿名審查所建立之獨立開源版本。  
+> 完整專案開發歷程與原始版本請參考：[原團隊 GitHub 專案](https://github.com/icguproject25-droid/electronic-nose-pineapple-ripeness-assessment)
+>
+> ⚠️ **匿名審查提醒：**原團隊 GitHub 為既有專題開發 Repository，部分歷史文件、影像及開發紀錄可能包含可識別之個人或參賽單位資訊，因此另建立本匿名版本供競賽審查使用。原 Repository 亦已於首頁針對相關內容加註匿名審查提醒，**匿名審查期間請勿開啟原團隊 GitHub 之相關身分資訊內容。**
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-Mega_2560-00979D?style=flat-square&logo=arduino&logoColor=white)
